@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Abdelrahaman Ayman
+-  📍 I'm from Egypt
+- 👨‍💻 I'm currently a computer science student
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
