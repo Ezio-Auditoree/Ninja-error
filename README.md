@@ -4,7 +4,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my discord: Ninja_#4131
+- 📫 How to reach me my discord: Ezio #8534
 
 <!---
 Ninja-error/Ninja-error is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
